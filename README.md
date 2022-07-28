@@ -22,6 +22,7 @@
 - If users wish to use the REST API, they can do so through Octokit (or Axios). There is a hook in this project called *useOctokit.js* that gives an example of how to use Octokit.
 
 :heavy_check_mark: **apollo-client**
+
 :heavy_check_mark: **React**
 
 :heavy_check_mark: **Material-UI**
