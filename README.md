@@ -29,5 +29,5 @@
 
 ## Development in Progress (as of July 28)
 
-- **GitHub API & npm run deploy:** This portfolio was initially designed for GitHub Pages deployment, but issues of security arise from having a public repository host a project with GitHub API for GitHub Pages. This is currently being fixed. 
+- **GitHub API & npm run deploy:** This portfolio was initially designed for GitHub Pages deployment, but the backend server for querying the API is still in development.
 - **Pagination**
