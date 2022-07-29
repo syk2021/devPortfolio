@@ -29,5 +29,5 @@
 
 ## Development in Progress (as of July 28)
 
-- **GitHub API & npm run deploy:** This portfolio was initially designed for GitHub Pages deployment, but the backend server for querying the API is still in development.
+- **GitHub API & npm run deploy:** This portfolio was initially designed for GitHub Pages deployment, but the backend server for querying the API safely is still in development.
 - **Pagination**
